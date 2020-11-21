@@ -8,7 +8,7 @@ TIMEOUT = 5  # Requests read timeout (secs)
 
 # Get your token using tg @BotFather
 # https://t.me/botfather
-TOKEN = "<ENTER YOUR BOT TOKEN HERE>"
+TOKEN = "1237158302:AAGw2hSx0oLnpGQ7byTEwRbqxa-3Y86Dpj8"
 
 MPD_IP = "localhost"
 MPD_PORT = "6600"
