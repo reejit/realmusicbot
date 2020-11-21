@@ -1,11 +1,11 @@
 import logging
-from .keyboards import keyboards
-from .get import get
+from keyboards import keyboards
+from get import get
 from threading import Thread
 from random import choice
 from time import sleep
 import mpd
-from .settings import *
+from settings import *
 import telebot
 telebot.apihelper.READ_TIMEOUT = TIMEOUT
 
