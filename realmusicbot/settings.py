@@ -2,4 +2,4 @@ import sys
 import os
 sys.path.insert(1, os.getenv("HOME"))
 
-from realmusicbot_settings import *
+from realmusicbot.realmusicbot_settings import *
