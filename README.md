@@ -11,9 +11,11 @@
 If you've ever used Discord, you've probably heard of music bots that play music for you. All you had to do was just type "**-p \<track_name\>**" to listen to your favorite song. I also liked it, so I made the real one!<br>
 This is a kind of addition to the awesome [Music Player Daemon](https://github.com/MusicPlayerDaemon/MPD). This script runs as a service on Raspberry Pi and allows you to play music from YouTube and control playback using Telegram.
 
-## Features
 
 heroku.com/deploy
+
+## Features
+
 
 - ### Search for music simply by sending a title...
 
