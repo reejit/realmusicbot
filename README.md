@@ -13,6 +13,8 @@ This is a kind of addition to the awesome [Music Player Daemon](https://github.c
 
 ## Features
 
+heroku.com/deploy
+
 - ### Search for music simply by sending a title...
 
 <details>
