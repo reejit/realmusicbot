@@ -1,6 +1,6 @@
 import logging
 from realmusicbot.keyboards import keyboards
-from get import get
+from realmusicbot.get import get
 from threading import Thread
 from random import choice
 from time import sleep
