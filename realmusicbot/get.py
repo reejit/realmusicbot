@@ -1,5 +1,5 @@
 import pafy
-from youtubesearchpython import searchYoutube
+from youtube-search-python import searchYoutube
 #  A BIG THANKS to https://github.com/alexmercerind
 
 
